@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Unmute/static/css/main.f0fb57c5.css",
+    "main.js": "/Unmute/static/js/main.9e59d018.js",
+    "static/js/377.e4d1a5eb.chunk.js": "/Unmute/static/js/377.e4d1a5eb.chunk.js",
+    "static/media/background-gradient.png": "/Unmute/static/media/background-gradient.47938f804438cc91f81e.png",
+    "service-worker.js": "/Unmute/service-worker.js",
+    "index.html": "/Unmute/index.html",
+    "main.f0fb57c5.css.map": "/Unmute/static/css/main.f0fb57c5.css.map",
+    "main.9e59d018.js.map": "/Unmute/static/js/main.9e59d018.js.map",
+    "377.e4d1a5eb.chunk.js.map": "/Unmute/static/js/377.e4d1a5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0fb57c5.css",
+    "static/js/main.9e59d018.js"
+  ]
+}
