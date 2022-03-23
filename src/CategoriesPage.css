@@ -19,7 +19,11 @@
     display: inline-block;
     border-radius: 10px;
     background-color: white;
+}
 
+.disabled {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
 
 .category-image {
